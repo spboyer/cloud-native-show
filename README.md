@@ -14,4 +14,4 @@ Beyond just talking about the ideas, join us on Twitch every few weeks to build 
 
 ### 3: DevOps and deploying an application
 
-### 4: Configuration and settings 
+### 4: Configuration and settings
