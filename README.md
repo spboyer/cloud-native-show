@@ -1,4 +1,4 @@
-# ~~Cloud Native .NET Show~~ Demystified
+# Cloud Native Show
 
 Why .NET Core for Cloud Native? That is what we are here to show you. In this series, we talk with industry experts, the engineers and customers building apps and using .NET Core for cloud native solutions.
 
