@@ -8,10 +8,12 @@ Beyond just talking about the ideas, join us on Twitch every few weeks to build 
 
 ## Episodes
 
-### 1: What is Cloud Native / Why .NET Core
+### [1: What is Cloud Native / Why .NET Core](./episodes/episode1.md)
 
-### 2: Hello World
+### [2: Hello World](./episodes/episode2.md)
 
-### 3: DevOps and deploying an application
+### [3: DevOps and deploying an application](./episodes/episode3.md)
 
-### 4: Configuration and settings
+### [4: Configuration and settings](./episodes/episode4.md)
+
+One of the factors in cloud native applications states you should store your configuration and settings outside of your core application code. In this episode, Andrew gives us a run down on how the configuration options in .NET Core allows for layers of configurability and abtractions for your app.
