@@ -14,6 +14,8 @@ Beyond just talking about the ideas, join us on Twitch every few weeks to build 
 
 ### [3: DevOps and deploying an application](./episodes/episode3.md)
 
+Cloud native is containers, microservices and serverless that run in multicloud environments and are managed through DevOps processes and principles. The relationship between DevOps and cloud native applications is not always clearly defined. In this episode, Abel joins us to explain the key aspects of the relationship and why DevOps are important to cloud native apps.
+
 ### [4: Configuration and settings](./episodes/episode4.md)
 
 One of the factors in cloud native applications states you should store your configuration and settings outside of your core application code. In this episode, Andrew gives us a run down on how the configuration options in .NET Core allows for layers of configurability and abtractions for your app.
