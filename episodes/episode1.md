@@ -12,9 +12,9 @@ As [defined](https://github.com/cncf/toc/blob/master/DEFINITION.md#cncf-cloud-na
 ## Guests
 
 * Brendan Burns
-* Scott Hunter
+* Scott Hunter ([@coolcsh](https://twitter.com/coolcsh))
 
-## Resources
+## Show Notes
 
 * [CNCF](https://www.cncf.io/)
 * [.NET Core : Web Apps](https://dotnet.microsoft.com/apps/aspnet?WT.mc_id=cloudnativeshow-github-shboyer)
