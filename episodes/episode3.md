@@ -27,3 +27,12 @@ Cloud native is containers, microservices and serverless that run in multicloud 
 * [Building a pipline for .NET Core Apps](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core?view=azure-devops&WT.mc_id=cloudnativeshow-github-shboyer)
 * [Use approvals and gates to control your deployment](https://docs.microsoft.com/azure/devops/pipelines/release/deploy-using-approvals?view=azure-devops&WT.mc_id=cloudnativeshow-github-shboyer)
 * [Static website hosting in Azure Storage](https://docs.microsoft.com/azure/storage/blobs/storage-blob-static-website&WT.mc_id=cloudnativeshow-github-shboyer)
+* DevOps for ASP.NET Developers Series
+  * [Part 1: What is DevOps?](https://channel9.msdn.com/Shows/On-NET/DevOps-For-ASPNET-Developers-Pt1-What-is-DevOps?WT.mc_id=cloudnativeshow-github-shboyer)
+  * [Part 2: Source Control](https://channel9.msdn.com/Shows/On-NET/DevOps-For-ASPNET-Developers-Pt2-Source-Control?WT.mc_id=cloudnativeshow-github-shboyer)
+  * [Part 3: Work Item Tracking](https://channel9.msdn.com/Shows/On-NET/Devops-For-ASPNET-Developers-Pt-3-Work-Item-Tracking?WT.mc_id=cloudnativeshow-github-shboyer)
+  * [Part 4: Continuos Integration](https://channel9.msdn.com/Shows/On-NET/DevOps-For-ASPNET-Developers-Pt4-Continuous-Integration?WT.mc_id=cloudnativeshow-github-shboyer)
+  * [Part 5: Unit Testing](https://channel9.msdn.com/Shows/On-NET/DevOps-For-ASPNET-Developers-Pt5-Unit-Testing?WT.mc_id=cloudnativeshow-github-shboyer)
+  * [Part 6: Release Pipelines](https://channel9.msdn.com/Shows/On-NET/DevOps-For-ASPNET-Developers-Pt6-Release-Pipelines?WT.mc_id=cloudnativeshow-github-shboyer)
+  * [Part 7: Templates and Scaffolding Tools](https://channel9.msdn.com/Shows/On-NET/DevOps-For-ASPNET-Developers-Pt7-Templates-and-Scaffolding-Tools?WT.mc_id=cloudnativeshow-github-shboyer)
+  * [Part 8: Azure DevOps Integration with GitHub](https://channel9.msdn.com/Shows/On-NET/DevOps-For-ASPNET-Developers-Pt-8-Azure-DevOps-Integration-with-GitHub?WT.mc_id=cloudnativeshow-github-shboyer)

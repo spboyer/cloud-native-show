@@ -19,3 +19,13 @@ Cloud native is containers, microservices and serverless that run in multicloud 
 ### [4: Configuration and settings](./episodes/episode4.md)
 
 One of the factors in cloud native applications states you should store your configuration and settings outside of your core application code. In this episode, Andrew gives us a run down on how the configuration options in .NET Core allows for layers of configurability and abtractions for your app.
+
+### [5:]()
+
+### [6: Monitoring Apps]()
+
+### [7: Serverless]()
+
+### [8: Tools for Building Cloud Native Apps]()
+
+### [9: Building APIs with gRPC]()
