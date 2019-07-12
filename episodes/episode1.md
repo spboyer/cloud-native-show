@@ -1,5 +1,11 @@
 # The "What" and "Why" of Cloud Native and .NET Core
 
+## Intro
+
+Part 1: Cloud Native – what is it? Loosley defined, it's running scalable applications in the cloud using containers, microservices, and immutable infrastructure managed with through devops. I'm going to talk to Brendan Burns and find out what it really means today.
+
+Part 2: Each service of a cloud native application is developed with the language and/or framework best suited for the job. APIs, serverless, web applications, and streaming services are a few examples. .NET Core is language built right on campus, let's go talk to Scott Hunter to find out why NET Core should be a first thought for cloud native apps.
+
 ## What is Cloud Native
 
 As [defined](https://github.com/cncf/toc/blob/master/DEFINITION.md#cncf-cloud-native-definition-v10) by Cloud Native Computing Foundation (CNCF)
