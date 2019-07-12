@@ -12,7 +12,7 @@
 
 1. Are there any big problems around state management that have not been solved?
 
-1, Do you think that concurrency should be happening on threads or processes?
+1. Do you think that concurrency should be happening on threads or processes?
 
 1. What were some of the motivations to get .NET Core such that it could run on Linux?
 
