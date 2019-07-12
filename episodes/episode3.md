@@ -18,6 +18,7 @@ Cloud native is containers, microservices and serverless that run in multicloud 
 6. How do you maintain quality in these pipelines for your cloud native apps
 7. Just how much can you automate in your pipelines? Database, security, infrastructure (including things like dns) etc
 8. Some examples of Cloud Native pipelines
+9. Show how Azure DevOps can help you deploy .NET Core preview apps to Azure via self-containment and SDK selection (the first step in your build pipeline should be to specify which .NET SDK you want to use)
 
 ## Show Notes
 
