@@ -33,3 +33,12 @@ One of the factors in cloud native applications states you should store your con
 ### [8: Tools for Building Cloud Native Apps]()
 
 ### [9: Building APIs with gRPC]()
+
+## Schedule
+
+** subject to change **
+
+* August 5th – Episode 1
+* August 19th – Episode 2
+* September 2nd – Episode 3
+* September 13th – Episode 4
