@@ -8,13 +8,13 @@ Beyond just talking about the ideas, join us on Twitch every few weeks to build 
 
 ## Episodes
 
-### [1: What is Cloud Native / Why .NET Core](./episodes/episode1.md)
+### [1: What is Cloud Native](./episodes/episode1.md)
 
 Part 1: Cloud Native – what is it? Loosley defined, it's running scalable applications in the cloud using containers, microservices, and immutable infrastructure managed with through devops. I'm going to talk to Brendan Burns and find out what it really means today.
 
-Part 2: Each service of a cloud native application is developed with the language and/or framework best suited for the job. APIs, serverless, web applications, and streaming services are a few examples. .NET Core is language built right on campus, let's go talk to Scott Hunter to find out why NET Core should be a first thought for cloud native apps.
+### [2: Why .NET Core for Cloud Native Apps](./episodes/episode2.md)
 
-### [2: Hello World](./episodes/episode2.md)
+Each service of a cloud native application is developed with the language and/or framework best suited for the job. APIs, serverless, web applications, and streaming services are a few examples. .NET Core is language built right on campus, let's go talk to Scott Hunter to find out why NET Core should be a first thought for cloud native apps.
 
 ### [3: DevOps and deploying an application](./episodes/episode3.md)
 
@@ -24,15 +24,15 @@ Cloud native is containers, microservices and serverless that run in multicloud 
 
 One of the factors in cloud native applications states you should store your configuration and settings outside of your core application code. In this episode, Andrew gives us a run down on how the configuration options in .NET Core allows for layers of configurability and abtractions for your app.
 
-### [5:]()
+### [5: Live Stream...](./episodes/episode5.md)
 
-### [6: Monitoring Apps]()
+### [6: Monitoring Apps](./episodes/episode6.md)
 
-### [7: Serverless]()
+### [7: Serverless](./episodes/episode7.md)
 
-### [8: Tools for Building Cloud Native Apps]()
+### [8: Tools for Building Cloud Native Apps](./episodes/episode8.md)
 
-### [9: Building APIs with gRPC]()
+### [9: Building APIs with gRPC](./episodes/episode9.md)
 
 ## Schedule
 
