@@ -10,7 +10,7 @@ Beyond just talking about the ideas, join us on Twitch every few weeks to build 
 
 ### [1: What is Cloud Native](./episodes/episode1.md)
 
-Part 1: Cloud Native – what is it? Loosley defined, it's running scalable applications in the cloud using containers, microservices, and immutable infrastructure managed with through devops. I'm going to talk to Brendan Burns and find out what it really means today.
+Cloud Native – what is it? Loosley defined, it's running scalable applications in the cloud using containers, microservices, and immutable infrastructure managed with through devops. I'm going to talk to Brendan Burns and find out what it really means today.
 
 ### [2: Why .NET Core for Cloud Native Apps](./episodes/episode2.md)
 
@@ -38,7 +38,7 @@ One of the factors in cloud native applications states you should store your con
 
 ** subject to change **
 
-* August 5th – Episode 1
-* August 19th – Episode 2
-* September 2nd – Episode 3
-* September 13th – Episode 4
+- August 5th – Episode 1
+- August 19th – Episode 2
+- September 2nd – Episode 3
+- September 13th – Episode 4
