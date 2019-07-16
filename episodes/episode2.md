@@ -1,19 +1,23 @@
-# Hello World
+# Why .NET Core for Cloud Native Apps
 
-## Introduction
+## Intro
 
-## Topics / Questions
+Each service of a cloud native application is developed with the language and/or framework best suited for the job. APIs, serverless, web applications, and streaming services are a few examples. .NET Core is language built right on campus, let's go talk to Scott Hunter to find out why NET Core should be a first thought for cloud native apps.
 
-1. What does cloud native mean to you, beyond breaking things up into micro services?
+## Why .NET Core
 
-1. How has .NET Core enabled cloud-native development?
+1. .NET Core was written from the ground up with a cloud first approach, what were the first goals?
+2. How has .NET Core enabled cloud-native development?
+3. What were some of the motivations to get .NET Core such that it could run on Linux?
+4. Anywhere, on anything and for any purpose
+5. .NET Core 3.0 - Worker templates, gRPC, any other improvements for cloud native dev?
 
-1. How important is individual horizontal scale in your mind?
+## Guest
 
-1. Are there any big problems around state management that have not been solved?
+* Scott Hunter ([@coolcsh](https://twitter.com/coolcsh))
 
-1. Do you think that concurrency should be happening on threads or processes?
+## Show Notes
 
-1. What were some of the motivations to get .NET Core such that it could run on Linux?
-
-1. Are their plans to make the Azure SDKs more idiomatic to the ASP.NET Core developer lifecycle?
+* [.NET Core : Web Apps](https://dotnet.microsoft.com/apps/aspnet?WT.mc_id=cloudnativeshow-github-shboyer)
+* [.NET Core : Microservices](https://dotnet.microsoft.com/apps/aspnet/microservices?WT.mc_id=cloudnativeshow-github-shboyer)
+* [.NET Core : Cloud Applications](https://dotnet.microsoft.com/apps/cloud?WT.mc_id=cloudnativeshow-github-shboyer)
