@@ -36,7 +36,7 @@ One of the factors in cloud native applications states you should store your con
 
 ## Schedule
 
-** subject to change **
+** Subject to change **
 
 - August 5th – Episode 1
 - August 19th – Episode 2
