@@ -2,7 +2,7 @@
 
 ## Intro
 
-Each service of a cloud native application is developed with the language and/or framework best suited for the job. APIs, serverless, web applications, and streaming services are a few examples. .NET Core is language built right on campus, let's go talk to Scott Hunter to find out why NET Core should be a first thought for cloud native apps.
+Welcome to another episode of the Cloud Native Show. APIs, serverless and streaming services are just a few examples of the types of apps you'd build using best of class languages.  .NET Core is language built right on campus, let's go talk to Scott Hunter to find out why .NET Core should be a first thought for cloud native apps.
 
 ## Why .NET Core
 
