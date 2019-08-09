@@ -24,3 +24,7 @@ As [defined](https://github.com/cncf/toc/blob/master/DEFINITION.md#cncf-cloud-na
 ## Show Notes
 
 - [CNCF](https://www.cncf.io/)
+- [Free Azure Account](https://azure.microsoft.com/free/?WT.mc_id=cloudnative-c9-shboyer)
+- [Build cloud-native applications in Azure](https://azure.microsoft.com/overview/cloudnative/?WT.mc_id=cloudnative-c9-shboyer)
+- [Free eBook : Designing Distributed Systems by Brendan Burns](https://azure.microsoft.com/resources/designing-distributed-systems/?WT.mc_id=cloudnative-c9-shboyer)
+- [What about cloud-native applications?](https://docs.microsoft.com/dotnet/standard/modernize-with-azure-and-containers/modernize-existing-apps-to-cloud-optimized/what-about-cloud-native-applications?WT.mc_id=cloudnative-c9-shboyer)
