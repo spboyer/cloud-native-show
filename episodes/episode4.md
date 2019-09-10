@@ -6,7 +6,7 @@ Andrew Stanton-Nurse [@anurse](https://twitter.com/anurse)
 
 ## Introduction
 
-One of the "Factors" in cloud native applications states you should store your configuration and settings outside of your core application code. In this episode, Andrew gives us a run down on how the configuration options in .NET Core allows for layers of configurability and abtractions for your app.
+One of the "Factors" in cloud native applications states you should store your configuration and settings outside of your core application code. In this episode, Andrew gives us a run down on how the configuration options in .NET Core allows for layers of configurability and abstractions for your app.
 
 ## Key Points / Questions
 
@@ -14,7 +14,7 @@ One of the "Factors" in cloud native applications states you should store your c
 1. By default .NET Core manages settings and configuration in an order of operations per se? Can you talk about that.
 1. Can we mix the various options of configuration options? ENV, JSON, INI etc?
 1. What about Environments?
-1. Now that we have a base of what’s “in the box”, what about getting these configurations out of our code base and externalizing these? As a practice of Cloud Native we want to manage these seperatly and not have them tied directly to the code base.
+1. Now that we have a base of what’s “in the box”, what about getting these configurations out of our code base and externalizing these? As a practice of Cloud Native we want to manage these separately and not have them tied directly to the code base.
 1. What are the options?
 1. Security, Practices?
 1. Are there conventions we should be aware of that the framework follows?
