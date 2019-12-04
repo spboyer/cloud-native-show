@@ -2,6 +2,8 @@
 
 ## Introduction
 
+A critical characteristic of cloud native architectures it the ability to dynamically scale and support massive numbers of users, events, and requests on these distributed applications and teams. Serverless can help in handling these challenges without having to worry about infrastructure or even an entire application. Jeff jumps into the show production and chats with us on how this fits into the plan for cloud native apps.
+
 ## Guest
 
 Jeff Hollan
