@@ -53,6 +53,8 @@ A critical characteristic of cloud native architectures it the ability to dynami
 
 [![Watch episode on channel9](https://img.shields.io/badge/watcch%20episode%20on-CH9-orange)](https://channel9.msdn.com/Shows/The-Cloud-Native-Show/The-Cloud-Native-Show-LIVE-Ep-1?WT.mc_id=cloudnativeshow-ch9-shboyer)
 
+[![Cloud Native Show Live Episode 1](http://img.youtube.com/vi/yhhrs5ttGkY/0.jpg)](http://www.youtube.com/watch?v=yhhrs5ttGkY "Cloud Native Show Live Episode 1")
+
 Cloud Native Show Live Episode #1 with Shayne and Glenn. They talk about Cloud Native development and build out a weather API application. First, they'll show you how to build an API with configuration and building an Azure DevOps pipeline. That pipeline will build a container image to push it to an Azure Container Registry.
 
 #### Links from the show
