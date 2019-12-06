@@ -24,23 +24,10 @@ Cloud native is containers, microservices and serverless that run in multicloud 
 
 One of the factors in cloud native applications states you should store your configuration and settings outside of your core application code. In this episode, Andrew gives us a run down on how the configuration options in .NET Core allows for layers of configurability and abtractions for your app.
 
-### [5: Live Stream...](./episodes/episode5.md)
+### [5: Azure Application Configuration](./episodes/episode5-azureappconfig.md)
 
-### [6: Monitoring Apps](./episodes/episode6.md)
+Azure App Configuration is a developer-focused service in Azure that manages and distributes application settings. It helps implement patterns, such as the 12-factor app, and is particularly useful for cloud native and other distributed applications. In this episode, we'll discuss how you can use Azure App Configuration to simplify management of and secure access to your application settings.
 
-### [7: Serverless](./episodes/episode7.md)
-
-### [8: Serverless, where does it fit?](./episodes/episode8-serverless.md)
+### [6: Serverless, where does it fit?](./episodes/episode6-serverless.md)
 
 A critical characteristic of cloud native architectures it the ability to dynamically scale and support massive numbers of users, events, and requests on these distributed applications and teams. Serverless can help in handling these challenges without having to worry about infrastructure or even an entire application. Jeff jumps into the show production and chats with us on how this fits into the plan for cloud native apps.
-
-### [9: Building APIs with gRPC](./episodes/episode9.md)
-
-## Schedule
-
-** Subject to change **
-
-- August 5th – Episode 1
-- August 19th – Episode 2
-- September 2nd – Episode 3
-- September 13th – Episode 4
