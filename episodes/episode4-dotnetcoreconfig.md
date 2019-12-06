@@ -1,5 +1,7 @@
 # Episode 4 -Configuration and Settings in ASP.NET Core
 
+[![Cloud Native Show - Cloud Native Configuration and Settings in ASP.NET Core](http://img.youtube.com/vi/LvA3YpGKX1c/0.jpg)](http://www.youtube.com/watch?v=LvA3YpGKX1c "Cloud Native Configuration and Settings in ASP.NET Core")
+
 ## Guest
 
 Andrew Stanton-Nurse [@anurse](https://twitter.com/anurse)
