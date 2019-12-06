@@ -1,4 +1,6 @@
 # Why .NET Core for Cloud Native Apps
+[![Watch episode on youtube](https://img.shields.io/badge/watcch%20episode%20on-YOUTUBE-red)](https://youtu.be/cL5aM9YSx18)
+[![Watch episode on channel9](https://img.shields.io/badge/watcch%20episode%20on-CH9-orange)](https://channel9.msdn.com/Shows/The-Cloud-Native-Show/Why-NET-Core-for-building-Cloud-Native-Apps?WT.mc_id=cloudnativeshow-ch9-shboyer)
 
 [![Cloud Native Show - Why .NET Core for building cloud native apps?](http://img.youtube.com/vi/cL5aM9YSx18/0.jpg)](http://www.youtube.com/watch?v=cL5aM9YSx18 "Why .NET Core for building cloud native apps?")
 
