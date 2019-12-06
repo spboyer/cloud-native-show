@@ -1,12 +1,14 @@
 # Episode 5 - Azure App Configuration
 
-## Guest
-
-Ye Gu / Lisa Guthrie
+[![Azure App Configuration](http://img.youtube.com/vi/DJqmA5PcfzE/0.jpg)](http://www.youtube.com/watch?v=DJqmA5PcfzE "Azure App Configuration")
 
 ## Introduction
 
 Cloud native applications often run on multiple vms or containers in many regions using multiple external services. One key recommendation is to separate configuration from our code. Let's have a chat with Ye and hear how Azure App Configuration helps with our cloud native apps.
+
+## Guest
+
+Lisa Guthrie
 
 ## Summary
 
@@ -21,7 +23,7 @@ Azure App Configuration is a developer-focused service in Azure that manages and
 
 ## Show Notes
 
-[What is Azure App Configuration](https://docs.microsoft.com/en-us/azure/azure-app-configuration/overview)
+[What is Azure App Configuration](https://docs.microsoft.com/en-us/azure/azure-app-configuration/overview?WT.mc_id=cloudnative-ch9-shboyer)
 
 [Tutorial: Use dynamic configuration in an ASP.NET Core app](https://docs.microsoft.com/azure/azure-app-configuration/enable-dynamic-configuration-aspnet-core?WT.mc_id=cloudnative-github-shboyer)
 
