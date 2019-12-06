@@ -1,5 +1,7 @@
 # What is Cloud Native
 
+[![Cloud Native Show - What is cloud native?](http://img.youtube.com/vi/529riThVtfk/0.jpg)](http://www.youtube.com/watch?v=529riThVtfk "What is Cloud Native?")
+
 ## Intro
 
 Cloud Native – what is it? Loosley defined, it's running scalable applications in the cloud using containers, microservices, and immutable infrastructure managed with through devops. I'm going to talk to Brendan Burns and find out what it really means today.
