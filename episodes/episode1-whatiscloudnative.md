@@ -1,4 +1,6 @@
 # What is Cloud Native
+[![Watch episode on youtube](https://img.shields.io/badge/watcch%20episode%20on-YOUTUBE-red)](https://youtu.be/529riThVtfk)
+[![Watch episode on channel9](https://img.shields.io/badge/watcch%20episode%20on-CH9-orange)](https://channel9.msdn.com/Shows/The-Cloud-Native-Show/What-is-Cloud-Native-Really?WT.mc_id=cloudnativeshow-ch9-shboyer)
 
 [![Cloud Native Show - What is cloud native?](http://img.youtube.com/vi/529riThVtfk/0.jpg)](http://www.youtube.com/watch?v=529riThVtfk "What is Cloud Native?")
 
