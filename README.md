@@ -16,7 +16,7 @@ Cloud Native – what is it? Loosley defined, it's running scalable applications
 
 Each service of a cloud native application is developed with the language and/or framework best suited for the job. APIs, serverless, web applications, and streaming services are a few examples. .NET Core is language built right on campus, let's go talk to Scott Hunter to find out why NET Core should be a first thought for cloud native apps.
 
-### [3: DevOps and deploying an application](./episodes/episode3.md)
+### [3: DevOps and deploying an application](./episodes/episode3-devops.md)
 
 Cloud native is containers, microservices and serverless that run in multicloud environments and are managed through DevOps processes and principles. The relationship between DevOps and cloud native applications is not always clearly defined. In this episode, Abel joins us to explain the key aspects of the relationship and why DevOps are important to cloud native apps.
 
