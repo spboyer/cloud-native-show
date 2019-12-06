@@ -2,6 +2,8 @@
 
 ## Introduction
 
+[![Cloud Native Show - Serverless, where does it fit?](http://img.youtube.com/vi/1kIH5qnlJzk/0.jpg)](http://www.youtube.com/watch?v=1kIH5qnlJzk "Where Does Serverless Fit in Cloud Native?")
+
 A critical characteristic of cloud native architectures it the ability to dynamically scale and support massive numbers of users, events, and requests on these distributed applications and teams. Serverless can help in handling these challenges without having to worry about infrastructure or even an entire application. Jeff jumps into the show production and chats with us on how this fits into the plan for cloud native apps.
 
 ## Guest
