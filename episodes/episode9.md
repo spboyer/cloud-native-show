@@ -1,1 +1,0 @@
-# Monitoring Cloud Native Apps
