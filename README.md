@@ -30,7 +30,7 @@ One of the factors in cloud native applications states you should store your con
 
 ### [7: Serverless](./episodes/episode7.md)
 
-### [8: Tools for Building Cloud Native Apps](./episodes/episode8.md)
+### [8: Serverless, where does it fit?](./episodes/episode8-serverless.md)
 
 ### [9: Building APIs with gRPC](./episodes/episode9.md)
 
