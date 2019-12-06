@@ -1,4 +1,6 @@
 # Episode 3 - DevOps for Cloud Native Apps
+[![Watch episode on youtube](https://img.shields.io/badge/watcch%20episode%20on-YOUTUBE-red)](https://youtu.be/Ztl3OB_DjCY)
+[![Watch episode on channel9](https://img.shields.io/badge/watcch%20episode%20on-CH9-orange)](https://channel9.msdn.com/Shows/The-Cloud-Native-Show/Azure-DevOps-for-NET-Core--Cloud-Native-Apps?WT.mc_id=cloudnativeshow-ch9-shboyer)
 
 [![Cloud Native Show - Azure DevOps for .NET Core + Cloud Native Apps](http://img.youtube.com/vi/Ztl3OB_DjCY/0.jpg)](http://www.youtube.com/watch?v=Ztl3OB_DjCY "Azure DevOps for .NET Core + Cloud Native Apps")
 
