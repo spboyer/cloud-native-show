@@ -1,5 +1,7 @@
 # Episode 3 - DevOps for Cloud Native Apps
 
+[![Cloud Native Show - Azure DevOps for .NET Core + Cloud Native Apps](http://img.youtube.com/vi/Ztl3OB_DjCY/0.jpg)](http://www.youtube.com/watch?v=Ztl3OB_DjCY "Azure DevOps for .NET Core + Cloud Native Apps")
+
 ## Guest(s)
 
 * Abel Wang ([@AbelSquidHead](https://twitter.com/abelsquidhead))
