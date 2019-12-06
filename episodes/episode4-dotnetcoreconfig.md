@@ -1,5 +1,8 @@
 # Episode 4 -Configuration and Settings in ASP.NET Core
 
+[![Watch episode on youtube](https://img.shields.io/badge/watcch%20episode%20on-YOUTUBE-red)](https://youtu.be/LvA3YpGKX1c)
+[![Watch episode on channel9](https://img.shields.io/badge/watcch%20episode%20on-CH9-orange)](https://channel9.msdn.com/Shows/The-Cloud-Native-Show/Cloud-Native-Configuration-and-Setting-in-ASPNET-Core?WT.mc_id=cloudnativeshow-ch9-shboyer)
+
 [![Cloud Native Show - Cloud Native Configuration and Settings in ASP.NET Core](http://img.youtube.com/vi/LvA3YpGKX1c/0.jpg)](http://www.youtube.com/watch?v=LvA3YpGKX1c "Cloud Native Configuration and Settings in ASP.NET Core")
 
 ## Guest
