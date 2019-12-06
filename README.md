@@ -8,7 +8,7 @@ Beyond just talking about the ideas, join us on Twitch every few weeks to build 
 
 ## Episodes
 
-### [1: What is Cloud Native](./episodes/episode1.md)
+### [1: What is Cloud Native](./episodes/episode1-whatiscloudnative.md)
 
 Cloud Native – what is it? Loosley defined, it's running scalable applications in the cloud using containers, microservices, and immutable infrastructure managed with through devops. I'm going to talk to Brendan Burns and find out what it really means today.
 
