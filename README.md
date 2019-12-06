@@ -32,6 +32,8 @@ One of the factors in cloud native applications states you should store your con
 
 ### [8: Serverless, where does it fit?](./episodes/episode8-serverless.md)
 
+A critical characteristic of cloud native architectures it the ability to dynamically scale and support massive numbers of users, events, and requests on these distributed applications and teams. Serverless can help in handling these challenges without having to worry about infrastructure or even an entire application. Jeff jumps into the show production and chats with us on how this fits into the plan for cloud native apps.
+
 ### [9: Building APIs with gRPC](./episodes/episode9.md)
 
 ## Schedule
