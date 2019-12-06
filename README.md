@@ -44,3 +44,19 @@ Azure App Configuration is a developer-focused service in Azure that manages and
 [![Watch episode on channel9](https://img.shields.io/badge/watcch%20episode%20on-CH9-orange)](https://channel9.msdn.com/Shows/The-Cloud-Native-Show/Where-Does-Serverless-Fit-in-Cloud-Native?WT.mc_id=cloudnativeshow-ch9-shboyer)
 
 A critical characteristic of cloud native architectures it the ability to dynamically scale and support massive numbers of users, events, and requests on these distributed applications and teams. Serverless can help in handling these challenges without having to worry about infrastructure or even an entire application. Jeff jumps into the show production and chats with us on how this fits into the plan for cloud native apps.
+
+## LIVE SHOWS
+
+### Episode 1
+
+[![Watch episode on channel9](https://img.shields.io/badge/watcch%20episode%20on-CH9-orange)](https://channel9.msdn.com/Shows/The-Cloud-Native-Show/The-Cloud-Native-Show-LIVE-Ep-1?WT.mc_id=cloudnativeshow-ch9-shboyer)
+
+Cloud Native Show Live Episode #1 with Shayne and Glenn. They talk about Cloud Native development and build out a weather API application. First, they'll show you how to build an API with configuration and building an Azure DevOps pipeline. That pipeline will build a container image to push it to an Azure Container Registry.
+
+#### Links from the show
+
+* [Configuration in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-3.0&WT.mc_id=cloudnative-ch9-shboyer)
+* [Microservices w/ .NET and Docker Containers](https://dotnet.microsoft.com/apps/aspnet/microservices?WT.mc_id=cloudnative-ch9-shboyer)
+* [Azure DevOps Documentation](https://docs.microsoft.com/en-us/azure/devops/index?view=azure-devops&WT.mc_id=cloudnative-ch9-shboyer)
+* [Build, test, and deploy .NET Core apps w/ Azure Pipelines](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/dotnet-core?view=azure-devops&WT.mc_id=cloudnative-ch9-shboyer)
+Safe storage of app secrets in development in ASP.NET Core - https://docs.microsoft.com/aspnet/core/security/app-secrets?view=aspnetcore-3.0&tabs=windows&WT.mc_id=cloudnative-ch9-shboyer
