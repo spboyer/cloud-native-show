@@ -7,7 +7,7 @@ In each episode, we'll have a conversation about the concepts of why and how eac
 
 Beyond just talking about the ideas, join us on Twitch every few weeks to build a real application using the practices and components our guests discuss with us.
 
-[Episodes](#episodes) | [Live Shows](#live%20shows)
+[Episodes](#episodes) | [Live Shows](#live-shows)
 
 ## Episodes
 
