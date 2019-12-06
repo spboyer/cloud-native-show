@@ -20,7 +20,7 @@ Each service of a cloud native application is developed with the language and/or
 
 Cloud native is containers, microservices and serverless that run in multicloud environments and are managed through DevOps processes and principles. The relationship between DevOps and cloud native applications is not always clearly defined. In this episode, Abel joins us to explain the key aspects of the relationship and why DevOps are important to cloud native apps.
 
-### [4: Configuration and settings](./episodes/episode4.md)
+### [4: Configuration and settings](./episodes/episode4-dotnetcoreconfig.md)
 
 One of the factors in cloud native applications states you should store your configuration and settings outside of your core application code. In this episode, Andrew gives us a run down on how the configuration options in .NET Core allows for layers of configurability and abtractions for your app.
 
