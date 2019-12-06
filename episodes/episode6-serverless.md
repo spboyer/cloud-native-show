@@ -1,4 +1,5 @@
 # Serverless, where does it fit?
+[![Free Azure Account](https://img.shields.io/badge/Free%20Azure-Account-blue?logo=microsoft-azure)](https://aka.ms/cldntvshw/freeazure)
 [![Watch episode on youtube](https://img.shields.io/badge/watcch%20episode%20on-YOUTUBE-red)](http://www.youtube.com/watch?v=1kIH5qnlJzk)
 [![Watch episode on channel9](https://img.shields.io/badge/watcch%20episode%20on-CH9-orange)](https://channel9.msdn.com/Shows/The-Cloud-Native-Show/Where-Does-Serverless-Fit-in-Cloud-Native?WT.mc_id=cloudnativeshow-ch9-shboyer)
 
