@@ -1,5 +1,8 @@
 # Episode 5 - Azure App Configuration
 
+[![Watch episode on youtube](https://img.shields.io/badge/watcch%20episode%20on-YOUTUBE-red)](https://youtu.be/DJqmA5PcfzE)
+[![Watch episode on channel9](https://img.shields.io/badge/watcch%20episode%20on-CH9-orange)](https://channel9.msdn.com/Shows/The-Cloud-Native-Show/Azure-App-Configuration?WT.mc_id=cloudnativeshow-ch9-shboyer)
+
 [![Azure App Configuration](http://img.youtube.com/vi/DJqmA5PcfzE/0.jpg)](http://www.youtube.com/watch?v=DJqmA5PcfzE "Azure App Configuration")
 
 ## Introduction
