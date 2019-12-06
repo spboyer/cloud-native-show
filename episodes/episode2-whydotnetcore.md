@@ -1,5 +1,7 @@
 # Why .NET Core for Cloud Native Apps
 
+[![Cloud Native Show - Why .NET Core for building cloud native apps?](http://img.youtube.com/vi/cL5aM9YSx18/0.jpg)](http://www.youtube.com/watch?v=cL5aM9YSx18 "Why .NET Core for building cloud native apps?")
+
 ## Intro
 
 Welcome to another episode of the Cloud Native Show. APIs, serverless and streaming services are just a few examples of the types of apps you'd build using best of class languages.  .NET Core is language built right on campus, let's go talk to Scott Hunter to find out why .NET Core should be a first thought for cloud native apps.
