@@ -7,6 +7,8 @@ In each episode, we'll have a conversation about the concepts of why and how eac
 
 Beyond just talking about the ideas, join us on Twitch every few weeks to build a real application using the practices and components our guests discuss with us.
 
+[Episodes](#episodes) | [Live Shows](#live%20shows)
+
 ## Episodes
 
 ### [1: What is Cloud Native](./episodes/episode1-whatiscloudnative.md)
@@ -59,4 +61,4 @@ Cloud Native Show Live Episode #1 with Shayne and Glenn. They talk about Cloud N
 * [Microservices w/ .NET and Docker Containers](https://dotnet.microsoft.com/apps/aspnet/microservices?WT.mc_id=cloudnative-ch9-shboyer)
 * [Azure DevOps Documentation](https://docs.microsoft.com/en-us/azure/devops/index?view=azure-devops&WT.mc_id=cloudnative-ch9-shboyer)
 * [Build, test, and deploy .NET Core apps w/ Azure Pipelines](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/dotnet-core?view=azure-devops&WT.mc_id=cloudnative-ch9-shboyer)
-Safe storage of app secrets in development in ASP.NET Core - https://docs.microsoft.com/aspnet/core/security/app-secrets?view=aspnetcore-3.0&tabs=windows&WT.mc_id=cloudnative-ch9-shboyer
+* [Safe storage of app secrets in development in ASP.NET Core](https://docs.microsoft.com/aspnet/core/security/app-secrets?view=aspnetcore-3.0&tabs=windows&WT.mc_id=cloudnative-ch9-shboyer)
