@@ -1,4 +1,4 @@
-# Building Apps with gRPC
+# Building Microservices with gRPC and .NET
 
 ## Introduction
 
