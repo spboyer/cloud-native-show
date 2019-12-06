@@ -12,7 +12,7 @@ Beyond just talking about the ideas, join us on Twitch every few weeks to build 
 
 Cloud Native – what is it? Loosley defined, it's running scalable applications in the cloud using containers, microservices, and immutable infrastructure managed with through devops. I'm going to talk to Brendan Burns and find out what it really means today.
 
-### [2: Why .NET Core for Cloud Native Apps](./episodes/episode2.md)
+### [2: Why .NET Core for Cloud Native Apps](./episodesepisode2-whydotnetcore.md)
 
 Each service of a cloud native application is developed with the language and/or framework best suited for the job. APIs, serverless, web applications, and streaming services are a few examples. .NET Core is language built right on campus, let's go talk to Scott Hunter to find out why NET Core should be a first thought for cloud native apps.
 
