@@ -4,4 +4,6 @@
 
 ## Guest
 
+Ralph Squillace [@homeskillett](https://twitter.com/@homeskillett)
+
 ## Show Notes
